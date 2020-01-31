@@ -5,7 +5,7 @@ using System;
 class Arrays
 {
     int n;
-    int v;
+   
 
     void CheckArrays()
     {
